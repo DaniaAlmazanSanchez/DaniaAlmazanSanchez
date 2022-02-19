@@ -1,7 +1,6 @@
 ## Mi mundo <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-### Hola👋 soy Dania Desarroladora Fron End Jr.
-
+<img  src="https://user-images.githubusercontent.com/90283253/154786155-19bb6cfb-d120-46e3-9726-53543415ae13.png">
 <div align="center">
  
 ### 👨‍💻Lenguages y Habilidades
