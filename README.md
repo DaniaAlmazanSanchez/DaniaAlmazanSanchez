@@ -1,5 +1,5 @@
 
-<img  src="https://user-images.githubusercontent.com/90283253/154786155-19bb6cfb-d120-46e3-9726-53543415ae13.png" width="100%" height="450" >
+<img  src="https://user-images.githubusercontent.com/90283253/154786155-19bb6cfb-d120-46e3-9726-53543415ae13.png" width="100%"  >
 <div align="center">
  
 ### 👨‍💻Lenguages y Habilidades
