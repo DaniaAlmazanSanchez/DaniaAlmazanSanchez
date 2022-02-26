@@ -1,5 +1,6 @@
 
-<img  src="https://user-images.githubusercontent.com/90283253/154786155-19bb6cfb-d120-46e3-9726-53543415ae13.png" width="100%"  >
+![desarrollo](https://user-images.githubusercontent.com/90283253/155819969-26e53736-a23d-43ac-85eb-c5b36216e07a.png)
+
 <div align="center">
  
 ### 👨‍💻Lenguages y Habilidades
