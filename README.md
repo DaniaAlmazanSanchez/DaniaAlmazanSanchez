@@ -1,8 +1,7 @@
-
-![desarrollo](https://user-images.githubusercontent.com/90283253/155819969-26e53736-a23d-43ac-85eb-c5b36216e07a.png)
-
 <div align="center">
- 
+
+![Captura de pantalla (39)](https://user-images.githubusercontent.com/90283253/174467527-64337779-2e3b-4df0-a338-6c22115f25fe.png)
+<div align="center">
 ### 👨‍💻Lenguages y Habilidades
 <br>
 <p align="space-between">
