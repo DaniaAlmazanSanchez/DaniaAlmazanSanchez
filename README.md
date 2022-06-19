@@ -1,8 +1,9 @@
 <div align="center">
 
 ![Captura de pantalla (39)](https://user-images.githubusercontent.com/90283253/174467527-64337779-2e3b-4df0-a338-6c22115f25fe.png)
-<div align="center">
-### 👨‍💻Lenguages y Habilidades
+</div>
+ <div align="center">
+ 👨‍💻Lenguages y Habilidades
 <br>
 <p align="space-between">
  
